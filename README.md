@@ -33,11 +33,11 @@ I also explore and share knowledge about **AI, Machine Learning, and the future 
 ## 🧠 What I do
 
 -   👩‍💻 I.A Applications
-  -   ⚡  Performance optimization
-    -   🧩 Clean architecture & system design
-    -   🤖 Automation & integrations
-    -   👨‍🏫 Machine Learning Processes
-    -   🧬 Data Science & Database
+-   ⚡  Performance optimization
+-   🧩 Clean architecture & system design
+-   🤖 Automation & integrations
+-   👨‍🏫 Machine Learning Processes
+-   🧬 Data Science & Database
 
 
 ---
