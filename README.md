@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arthur Miguel 
 
-🚀 **Trainee/Junior IA Engineer | Python & MySQL Specialist**  
+🚀 **Trainee IA Engineer | Python & MySQL Specialist**  
 🇧🇷 Brazil
 
 I build intelligent systems powered by **Artificial Intelligence and Machine Learning**.
