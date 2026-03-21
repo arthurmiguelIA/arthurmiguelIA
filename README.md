@@ -16,7 +16,7 @@ I also explore and share knowledge about **AI, Machine Learning, and the future 
 <p align="left">
 
 <a href="https://github.com/arthurmiguelIA">
-  <img src="[https://img.shields.io/badge/GitHub-arthurmiguelia-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-arthurmiguelia-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arthurmalves/">
